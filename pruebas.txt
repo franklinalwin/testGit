@@ -1,0 +1,3 @@
+Your first instinct, when you start to do something new, should be git init. 
+7You’re starting to write a new paper, you’re writing a bit of code to do a computer simulation, 
+you’re mucking around with some new data … anything: think git init.
